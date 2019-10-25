@@ -2,8 +2,9 @@
 // For now, it only renders a menu
 // Next update could feature placeholder buttons for the menu
 // That can be rotated
+// Test
 
-let WIDTH = 700;
+let WIDTH = 700; 
 let HEIGHT = 500;
 let menu = [];
 
